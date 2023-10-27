@@ -1,0 +1,17 @@
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPILaba.exe
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPILaba.deps.json
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPILaba.runtimeconfig.json
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPILaba.dll
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPILaba.pdb
+C:\Projects\MPILaba\MPILaba\bin\Release\net6.0\MPI.dll
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.csproj.AssemblyReference.cache
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.AssemblyInfoInputs.cache
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.AssemblyInfo.cs
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.csproj.CoreCompileInputs.cache
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.csproj.CopyComplete
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.dll
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\refint\MPILaba.dll
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.pdb
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\MPILaba.genruntimeconfig.cache
+C:\Projects\MPILaba\MPILaba\obj\Release\net6.0\ref\MPILaba.dll

@@ -1,0 +1,6 @@
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPILaba.exe
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPILaba.dll
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPILaba.deps.json
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPILaba.runtimeconfig.json
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPILaba.pdb
+C:\Projects\MPILaba\MPILaba\obj\Docker\publish\MPI.dll
