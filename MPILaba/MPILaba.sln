@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPILaba", "MPILaba\MPILaba.csproj", "{EAF099A5-3CED-4B41-AD97-90882F8918DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF099A5-3CED-4B41-AD97-90882F8918DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF099A5-3CED-4B41-AD97-90882F8918DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF099A5-3CED-4B41-AD97-90882F8918DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF099A5-3CED-4B41-AD97-90882F8918DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60CC712-3081-4326-9D7B-58FAD39CD5D9}
+	EndGlobalSection
+EndGlobal
